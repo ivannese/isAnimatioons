@@ -1,2 +1,2 @@
 # isAnimatioons
-Animation CSS, just tryan something
+Animation CSS, just trying something!!
